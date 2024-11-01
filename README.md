@@ -9,7 +9,7 @@ git clone https://github.com/sleepyG8/poke-finder.git
 
 cd poke-finder
 
-chmod +755 poke.sh
+chmod -R +755 poke-finder
 
 +-------+
 | USAGE |
